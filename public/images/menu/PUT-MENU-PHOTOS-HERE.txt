@@ -1,0 +1,9 @@
+Drop one photo per menu item in this folder, named after the item id (see public/products.json):
+
+  kapeng-kanlungan.jpg   ube-latte.jpg      sea-salt.jpg
+  tablea.jpg             mango.jpg          matcha.jpg
+  ensaymada.jpg          tuna-pandesal.jpg  cookie.jpg
+
+Tips: landscape or square, about 800x600 px, under 150 KB each.
+Missing photos automatically fall back to the letter placeholder.
+Want .png or .webp? Change the "image" path for that item in products.json.

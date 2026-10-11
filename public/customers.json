@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c-001",
+    "name": "Mika Santos",
+    "role": "BS Computer Science, 3rd year",
+    "memberSince": "2025-08",
+    "visitsPerWeek": 4,
+    "favoriteItem": "ube-latte",
+    "rating": 5,
+    "quote": "The Ube Cream Latte got me through my capstone defense. The outlets and the no-rush vibe don't hurt either."
+  },
+  {
+    "id": "c-002",
+    "name": "Paolo Reyes",
+    "role": "Graphic design student",
+    "memberSince": "2025-09",
+    "visitsPerWeek": 3,
+    "favoriteItem": "kapeng-kanlungan",
+    "rating": 5,
+    "quote": "Kapeng Kanlungan is the only coffee that keeps me awake without making me anxious. We hold our sketch dates here every Friday."
+  },
+  {
+    "id": "c-003",
+    "name": "Angela Cruz",
+    "role": "Org president, Debate Society",
+    "memberSince": "2025-10",
+    "visitsPerWeek": 2,
+    "favoriteItem": "matcha",
+    "rating": 4,
+    "quote": "They set aside a long table for our org meetings. The Strawberry Matcha is a hit, and the prices fit a student budget."
+  },
+  {
+    "id": "c-004",
+    "name": "Jerome Villanueva",
+    "role": "Engineering student",
+    "memberSince": "2026-01",
+    "visitsPerWeek": 5,
+    "favoriteItem": "tuna-pandesal",
+    "rating": 5,
+    "quote": "With the student discount, a Tuna Melt Pandesal and a drink costs less than a fast-food meal. Easy choice."
+  },
+  {
+    "id": "c-005",
+    "name": "Bea Navarro",
+    "role": "Nursing student",
+    "memberSince": "2026-02",
+    "visitsPerWeek": 2,
+    "favoriteItem": "tablea",
+    "rating": 5,
+    "quote": "Iced Tablea Cloud after a long duty is the best. It's warm and homey, just like the name says."
+  },
+  {
+    "id": "c-006",
+    "name": "Carlo Mendoza",
+    "role": "Freelance writer",
+    "memberSince": "2026-03",
+    "visitsPerWeek": 3,
+    "favoriteItem": "sea-salt",
+    "rating": 4,
+    "quote": "I write here most mornings. The staff remember my order, and the Sea Salt Spanish is dangerously good."
+  }
+]

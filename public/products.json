@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kapeng-kanlungan",
+    "category": "Coffee",
+    "name": "Kapeng Kanlungan",
+    "description": "Double espresso, muscovado, oat milk, and cinnamon.",
+    "price": 125,
+    "available": true,
+    "badge": "Bestseller",
+    "image": "images/menu/kapeng-kanlungan.jpg"
+  },
+  {
+    "id": "ube-latte",
+    "category": "Coffee",
+    "name": "Ube Cream Latte",
+    "description": "Espresso, silky milk, house ube cream, and toasted coconut.",
+    "price": 145,
+    "available": true,
+    "badge": "Local favorite",
+    "image": "images/menu/ube-latte.jpg"
+  },
+  {
+    "id": "sea-salt",
+    "category": "Coffee",
+    "name": "Sea Salt Spanish",
+    "description": "Condensed milk latte crowned with lightly salted cream.",
+    "price": 140,
+    "available": true,
+    "image": "images/menu/sea-salt.jpg"
+  },
+  {
+    "id": "tablea",
+    "category": "Non-coffee",
+    "name": "Iced Tablea Cloud",
+    "description": "Rich local cacao, milk, vanilla, and soft cream foam.",
+    "price": 130,
+    "available": true,
+    "badge": "New",
+    "image": "images/menu/tablea.jpg"
+  },
+  {
+    "id": "mango",
+    "category": "Non-coffee",
+    "name": "Mango Yakult Fizz",
+    "description": "Fresh mango, Yakult, citrus, and sparkling water.",
+    "price": 115,
+    "available": true,
+    "image": "images/menu/mango.jpg"
+  },
+  {
+    "id": "matcha",
+    "category": "Non-coffee",
+    "name": "Strawberry Matcha",
+    "description": "Ceremonial matcha layered with strawberry milk.",
+    "price": 145,
+    "available": true,
+    "image": "images/menu/matcha.jpg"
+  },
+  {
+    "id": "ensaymada",
+    "category": "Food",
+    "name": "Cheesy Ensaymada",
+    "description": "Soft brioche, cultured butter, sugar, and aged cheese.",
+    "price": 85,
+    "available": true,
+    "badge": "Perfect pair",
+    "image": "images/menu/ensaymada.jpg"
+  },
+  {
+    "id": "tuna-pandesal",
+    "category": "Food",
+    "name": "Tuna Melt Pandesal",
+    "description": "Creamy tuna, cheddar, and herbs in toasted pandesal.",
+    "price": 110,
+    "available": true,
+    "image": "images/menu/tuna-pandesal.jpg"
+  },
+  {
+    "id": "cookie",
+    "category": "Food",
+    "name": "Brown Butter Cookie",
+    "description": "Dark chocolate chunks, brown butter, and flaky salt.",
+    "price": 75,
+    "available": true,
+    "image": "images/menu/cookie.jpg"
+  }
+]
