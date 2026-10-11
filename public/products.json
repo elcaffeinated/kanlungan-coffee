@@ -31,7 +31,7 @@
   {
     "id": "tablea",
     "category": "Non-coffee",
-    "name": "Iced Tablea Cloud",
+    "name": "Hot Tablea Cloud",
     "description": "Rich local cacao, milk, vanilla, and soft cream foam.",
     "price": 130,
     "available": true,
@@ -41,8 +41,8 @@
   {
     "id": "mango",
     "category": "Non-coffee",
-    "name": "Mango Yakult Fizz",
-    "description": "Fresh mango, Yakult, citrus, and sparkling water.",
+    "name": "Mango Fizz",
+    "description": "Fresh mango, citrus, and sparkling water.",
     "price": 115,
     "available": true,
     "image": "images/menu/mango.jpg"
@@ -50,8 +50,8 @@
   {
     "id": "matcha",
     "category": "Non-coffee",
-    "name": "Strawberry Matcha",
-    "description": "Ceremonial matcha layered with strawberry milk.",
+    "name": "Matcha Cloud",
+    "description": "Ceremonial matcha layered with foam milk.",
     "price": 145,
     "available": true,
     "image": "images/menu/matcha.jpg"
@@ -69,8 +69,8 @@
   {
     "id": "tuna-pandesal",
     "category": "Food",
-    "name": "Tuna Melt Pandesal",
-    "description": "Creamy tuna, cheddar, and herbs in toasted pandesal.",
+    "name": "Pandesal",
+    "description": "Cheddar, and herbs in toasted pandesal.",
     "price": 110,
     "available": true,
     "image": "images/menu/tuna-pandesal.jpg"
