@@ -688,8 +688,7 @@ export default function App() {
             </div>
           </div>
         </section>
-
-        <section className="full-menu section" id="full-menu">
+                <section className="full-menu section" id="full-menu">
           <div className="menu-header">
             <div>
               <p className="kicker">The Kanlungan menu</p>
@@ -815,6 +814,33 @@ export default function App() {
               <ArrowUpRight />
             </button>
             <small>Valid for dine-in orders. Terms and conditions apply.</small>
+          </div>
+        </section>
+
+        <section
+          className="video-section section"
+          id="video"
+          aria-label="Promotional video"
+        >
+          <div className="section-heading">
+            <div>
+              <p className="kicker">Kanlungan</p>
+              <h2>
+                Visit <em>kanlungan</em> Now!
+              </h2>
+            </div>
+            <p className="heading-intro">
+              How we make every cup feel like a little kanlungan.
+            </p>
+          </div>
+          <div className="video-frame">
+            <iframe
+              src="https://www.youtube.com/embed/5kMzko5jrkI"
+              title="Kanlungan Coffee Co. promotional video"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+              loading="lazy"
+            />
           </div>
         </section>
 
@@ -1182,7 +1208,7 @@ export default function App() {
         )}
       </aside>
 
-          <footer>
+      <footer>
         <div className="footer-main">
           <div className="footer-brand">
             <a href="#home" aria-label="Kanlungan Coffee home">
